@@ -3,7 +3,7 @@
 ## Описание проекта
 ссылка на проект в Telegram- @South111Magnet_bot
 
-![Скриншот]([https://github.com/user-attachments/assets/fcee0808-987a-429f-9452-132252157311](https://github.com/MaxGarAI/ai_assistent/blob/main/AI%20%D0%B1%D0%BE%D1%82.jpg?raw=true))
+![Скриншот]([https://github.com/user-attachments/assets/fcee0808-987a-429f-9452-132252157311](https://github.com/MaxGarAI/ai_assistent/blob/main/AI%20%D0%B1%D0%BE%D1%82.jpg?raw=true)
 
 
 Проект представляет собой интеллектуального ассистента, созданного специально для агентств недвижимости. Этот ассистент использует передовые технологии искусственного интеллекта для эффективного взаимодействия с клиентами, автоматизации рутинных задач и повышения уровня обслуживания.
